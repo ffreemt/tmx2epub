@@ -1,4 +1,4 @@
-# tmx2epub ![build](https://github.com/ffreemt/xtl-read-assistant/workflows/build/badge.svg)[![codecov](https://codecov.io/gh/ffreemt/xtl-read-assistant/branch/master/graph/badge.svg)](https://codecov.io/gh/ffreemt/xtl-read-assistant)[![CodeFactor](https://www.codefactor.io/repository/github/ffreemt/xtl-read-assistant/badge/master)](https://www.codefactor.io/repository/github/ffreemt/xtl-read-assistant/overview/master)[![PyPI version](https://badge.fury.io/py/xtl-read-assistant.svg)](https://badge.fury.io/py/xtl-read-assistant)
+# tmx2epub ![build](https://github.com/ffreemt/xtl-read-assistant/workflows/build/badge.svg)[![CodeFactor](https://www.codefactor.io/repository/github/ffreemt/tmx2epub/badge)](https://www.codefactor.io/repository/github/ffreemt/tmx2epub)[![PyPI version](https://badge.fury.io/py/tmx2epub.svg)](https://badge.fury.io/py/tmx2epub)
 convert tmx to epub
 
 ### Installation
