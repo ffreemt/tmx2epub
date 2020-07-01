@@ -40,7 +40,7 @@ flags.DEFINE_boolean("debug", False, "print debug messages.")
 flags.DEFINE_boolean("version", False, "print version and exit", short_name="V")
 
 
-def proc_argv(argv):  # pylint: disable=too-many-branches
+def proc_argv(argv):  # pylint: disable=too-many-branches  # noqa: C901
     """ proc_argv in absl.
     __main__ main """
     del argv

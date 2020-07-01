@@ -15,8 +15,9 @@ from ebooklib import epub
 from tmx2epub.xml_iter import xml_iter
 
 
+# fixed complexity complaint?
 # fmt: off
-def gen_epub(  # pylint: disable=too-many-arguments, too-many-locals, too-many-statements, too-many-branches
+def gen_epub(  # pylint: disable=too-many-arguments, too-many-locals, too-many-statements, too-many-branches  # noqa: C901
         infile: str,
         outfile: Optional[str] = None,
         title: Optional[str] = None,
