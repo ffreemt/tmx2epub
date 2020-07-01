@@ -1,2 +1,3 @@
 *.tmx linguist-language=Python
 *.epub linguist-language=Python
+*.xhtml linguist-language=Python
