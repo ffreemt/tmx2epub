@@ -25,6 +25,7 @@ pyquery = "^1.4.1"
 absl-py = "^0.9.0"
 logzero = "^1.5.0"
 tqdm = "^4.47.0"
+flake8 = "^3.8.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
