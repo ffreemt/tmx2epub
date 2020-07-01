@@ -7,7 +7,7 @@ convert tmx to epub
 ### Usage
 
 #### Casual
-Run `tmx2epub.exe` and browse to select a tmx/gz/bzip2 file.
+Run `tmx2epub` and browse to select a tmx/gz/bzip2 file.
 
 #### Adavanced
 `tmx2epub.exe --helpshort`
